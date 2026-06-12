@@ -8,8 +8,8 @@
     "backend": {
       "root": "backend",
       "routePrefix": "/api",
-      "framework": "fastapi",
-      "entrypoint": "main.py"
+      "runtime": "python3.12",
+      "entrypoint": "backend.main:app"
     }
   }
 }
