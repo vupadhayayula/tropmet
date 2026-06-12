@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TROPMET 2026 — PRaGaTI
 
 ## Quick Start
@@ -43,3 +44,6 @@ Open: http://localhost:5173
 ## Razorpay Test Cards
 - Card: `4111 1111 1111 1111`, Expiry: any future, CVV: any
 - UPI: `success@razorpay`
+=======
+# tropmet
+>>>>>>> d492c7fd2b8d5cd116c0eea4052075c9cafbc180
